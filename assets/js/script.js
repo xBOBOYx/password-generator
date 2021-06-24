@@ -39,12 +39,12 @@ function generatePassword() {
         confirmLowercase = confirm("Will this contain Lowercase letters?");
     };
 
-    // You'll need to puck at least a couple....Four false statements
+    // You'll need to pick at least a one....Four false statements
     if (!confirmCharacter && !confirmNumber && !confirmUppercase && !confirmLowercase) {
         choices = alert("You must choose a criteria!");
 
     }
-    // Four true statements
+    // 4 true statements
     else if (confirmCharacter && confirmNumber && confirmUppercase && confirmLowercase) {
 
         choices = character.concat(number, alphaLower, alphaUpper);
