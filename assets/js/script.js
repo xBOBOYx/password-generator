@@ -41,7 +41,7 @@ function generatePassword() {
 
     // You'll need to pick at least a one....Four false statements
     if (!confirmCharacter && !confirmNumber && !confirmUppercase && !confirmLowercase) {
-        choices = alert("You must choose a criteria!");
+        choices = alert("You must construct additional pylons! Please choose a criteria!");
 
     }
     // 4 true statements
