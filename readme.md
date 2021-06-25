@@ -27,4 +27,8 @@ SO THAT I can create a strong password that provides greater security
 - THEN the password is either displayed in an alert or written to the page
 
 
+Passwork Generator Link:
+https://xboboyx.github.io/password-generator/
+
+
 ![](assets/images/password-generator.png)
