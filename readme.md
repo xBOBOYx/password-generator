@@ -1,4 +1,16 @@
-PASSWORD GENERATOR!!!!
+PASSWORD GENERATOR
+
+
+Description:
+
+In this assignment we had to create a password generator that created a random string of characters, lowercase letters, uppercase letters and numbers.
+I went through several different version of this and ended up with the code you see here. This will randomize an array then print after the criteria 
+is selected by the user. In another version that I was working on, I was using char codes to represent the arrays instead of actually typing out the 
+array. That is still a work in progress. I went with this one becuase it was closer to what we learned before the homework. Below you will find the 
+acceptance criteria for the assignment. 
+
+This one was a challenge, but at the end of the assignment I had a better understanding of what is actually happening in the code. Looking forward 
+to our next assignemts. 
 
 ## User Story
 
